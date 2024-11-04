@@ -51,5 +51,5 @@ HTML, CSS...
 
 ## Screenshots
 
-![App Screenshot](./images/images/drew-coffman-1872.jpg)
+![App Screenshot](./images/images/bakeryHomePage.png)
 
